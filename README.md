@@ -14,6 +14,5 @@ da programação que é a Análise de Dados.
 ▶ Contato básico e Fundamentos de Cloud <br>
 ▶ Visualização de Dados (Dashboards)
 </blockquote>
-
 <hr>
 
